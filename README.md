@@ -5,7 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple)
-![mysql](https://img.shields.io/badge/Postgresql-JPA-yellreen)
+![mysql](https://img.shields.io/badge/MySQL-JPA-yellreen)
 
 
 
