@@ -36,7 +36,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container">
           <a class="navbar-brand" href="index.html">
-            <img src="./files/images/logo.png" alt="" />
+            <img src="./FolderForDesign/images/logo.png" alt="" />
             <span>
              ProjectPulse+
             </span>
@@ -56,11 +56,11 @@
               </li>
             
               <li class="nav-item">
-                <a class="nav-link" href="loginf">Login As Freelancer &nbsp; <i class="fa-solid fa-users"></i></a>
+                <a class="nav-link" href="/ProjectPulse/LogInFreelancer">Login As Freelancer &nbsp; <i class="fa-solid fa-users"></i></a>
               </li>
             </ul>
             <div class="user_option">
-              <a href="loginc">
+              <a href="/ProjectPulse/LogInPage">
                
                  <span>
                   Login As Company &nbsp; <i class="fa-solid fa-building"></i>
@@ -123,10 +123,10 @@
                      World's largest freelance marketplace
                     </p>
                     <div class="btn-box">
-                      <a href="loginc" class="btn-1">
+                      <a href="/ProjectPulse/LogInFreelancer" class="btn-1">
                        Hire a Freelancer &nbsp;<i class="fa-brands fa-hive"></i>
                       </a>
-                      <a href="loginf" class="btn-2">
+                      <a href="/ProjectPulse/LogInFreelancer" class="btn-2">
                        Earn Money Freelancing &nbsp; <i class="fa-solid fa-dollar-sign"></i>
                       </a>
                     </div>
@@ -134,7 +134,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="./files/images/slider-img.png" alt="">
+                    <img src="./FolderForDesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -154,10 +154,10 @@
                     Save up to 90% & get quotes for free
                     </p>
                     <div class="btn-box">
-                      <a href="loginc" class="btn-1">
+                      <a href="/ProjectPulse/LogInFreelancer" class="btn-1">
                        Hire a Freelancer &nbsp;<i class="fa-brands fa-hive"></i>
                       </a>
-                      <a href="loginf" class="btn-2">
+                      <a href="/ProjectPulse/LogInFreelancer" class="btn-2">
                        Earn Money Freelancing &nbsp; <i class="fa-solid fa-dollar-sign"></i>
                       </a>
                     </div>
@@ -165,7 +165,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="./files/images/slider-img.png" alt="">
+                    <img src="./FolderForDesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -185,7 +185,7 @@
                      Any job you can possibly think of
                     </p>
                     <div class="btn-box">
-                      <a href="loginc" class="btn-1">
+                      <a href="/ProjectPulse/LogInFreelancer" class="btn-1">
                        Hire a Freelancer &nbsp;<i class="fa-brands fa-hive"></i>
                       </a>
                       <a href="loginf" class="btn-2">
@@ -196,7 +196,7 @@
                 </div>
                 <div class="offset-md-1 col-md-4 img-container">
                   <div class="img-box">
-                    <img src="./files/images/slider-img.png" alt="">
+                    <img src="./FolderForDesign/images/slider-img.png" alt="">
                   </div>
                 </div>
               </div>
@@ -218,7 +218,7 @@
       <div class="row">
         <div class="col-md-5">
           <div class="img-box">
-            <img src="./files/images/experience-img.jpg" alt="">
+            <img src="./FolderForDesign/images/experience-img.jpg" alt="">
           </div>
         </div>
         <div class="col-md-7">
@@ -233,7 +233,7 @@
             </p>
             <div class="btn-box">
              
-              <a href="loginc" class="btn-2">
+              <a href="/ProjectPulse/LogInFreelancer" class="btn-2">
                 Hire
               </a>
             </div>
@@ -297,12 +297,11 @@
         <div class="card-box ">
             <div class="text-center">
                 <div class="thumb-lg member-thumb mx-auto">
-                    <img src="./files/images/gauravpatil.jpg" class="rounded-circle img-thumbnail" alt="profile-image">
+                    <img src="./FolderForDesign/images/gauravpatil.jpg" class="rounded-circle img-thumbnail" alt="profile-image">
                 </div>
                 <input type="hidden" value="${e.id}">
                 <div>
                     <h4>Gaurav Patil</h4>
-                    <h6>${e.femail}</h6>
                     <p class="text-muted">Skills<span><i class="fa-brands fa-nutritionix"></i><br> </span><span><a href="#" class="text-pink">Java,Spring Boot, Spring MVC , Postgresql</a></span></p>
                 </div>
               <a href="https://www.linkedin.com/in/gauravpatil13/" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -336,12 +335,11 @@
          <div class="card-box " style="background-color:#e9d8a6">
             <div class="text-center">
                 <div class="thumb-lg member-thumb mx-auto">
-                    <img src="./files/images/rohitwagh.jpg" class="rounded-circle img-thumbnail " alt="profile-image">
+                    <img src="./FolderForDesign/images/rohitwagh.jpg" class="rounded-circle img-thumbnail " alt="profile-image">
                 </div>
                 <input type="hidden" value="${e.id}">
                 <div>
                     <h4>Rohit Waghmare</h4>
-                    <h6>${e.femail}</h6>
                     <p class="text-muted">Skills<span><i class="fa-brands fa-nutritionix"></i><br> </span><span><a href="#" class="text-pink">Java, Jirs, Manual Testing ,Automation,Selenium</a></span></p>
                 </div>
               <a href="https://www.linkedin.com/in/rohitwaghmare-rohit/" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -375,12 +373,11 @@
          <div class="card-box " style="background-color:#94d2bd;">
             <div class="text-center">
                 <div class="thumb-lg member-thumb mx-auto">
-                    <img src="./files/images/vaibhavsir.jpg" class="rounded-circle img-thumbnail" alt="profile-image">
+                    <img src="./FolderForDesign/images/vaibhavsir.jpg" class="rounded-circle img-thumbnail" alt="profile-image">
                 </div>
                 <input type="hidden" value="${e.id}">
                 <div>
                     <h4>Vaibhav Barde</h4>
-                    <h6>${e.femail}</h6>
                     <p class="text-muted">Skills<span><i class="fa-brands fa-nutritionix"></i><br> </span><span><a href="#" class="text-pink">.NET, MVC,PHP ,SQL,React js</a></span></p>
                 </div>
               <a href="https://www.linkedin.com/in/vaibhav-barde1/" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a>
@@ -413,7 +410,7 @@
   
 </div>
    
-    <center> <a href="loginc" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"">View More<i class="fa-solid fa-caret-right"></i><i class="fa-solid fa-caret-right"></i></a></center>
+    <center> <a href="ViewAllFreelancer" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"">View More<i class="fa-solid fa-caret-right"></i><i class="fa-solid fa-caret-right"></i></a></center>
 
  
  
@@ -434,7 +431,7 @@
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/capgemini.jpg" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/capgemini.jpg" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -453,7 +450,7 @@
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/infosys.gif" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/infosys.gif" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -475,7 +472,7 @@ Negotiation</p>
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/wipro.png" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/wipro.png" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -504,7 +501,7 @@ Core python expertise</p>
   </div><!-- / row -->
 </div><!-- / container -->
      
-       <center> <a href="loginf" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"">View More & Apply  &nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i></a></center>
+   
   
   
     
@@ -522,7 +519,7 @@ Core python expertise</p>
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/projectpng.png" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/projectpng.png" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -546,7 +543,7 @@ Health administration</a>
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/projectpng.png" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/projectpng.png" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -570,7 +567,7 @@ Employee tracking system</a>
           <figure class="portfolio-item">
             <a href="loginf" class="hovereffect">
               
-            <img class="img-responsive" src="./files/images/projectpng.png" alt="" width=300px>
+            <img class="img-responsive" src="./FolderForDesign/images/projectpng.png" alt="" width=300px>
               <div class="overlay"></div><!-- / overlay -->
             </a><!-- / hovereffect -->
           </figure><!-- / portfolio-item -->
@@ -593,7 +590,7 @@ Building chatbots</a>
 </div><!-- / container -->
      
      
- <center> <a href="loginf" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"">View More<i class="fa-solid fa-caret-right"></i><i class="fa-solid fa-caret-right"></i></a></center>
+ <center> <a href="ExploreJobs" title="LinkedIn" class="btn btn-linkedin btn-lg" style="background-color:#3a86ff;"">View More<i class="fa-solid fa-caret-right"></i><i class="fa-solid fa-caret-right"></i></a></center>
     
   
   <!-- about section -->
@@ -603,7 +600,7 @@ Building chatbots</a>
       <div class="row">
         <div class="col-md-10 col-lg-9 mx-auto">
           <div class="img-box">
-            <img src="./files/images/about-img.jpg" alt="">
+            <img src="./FolderForDesign/images/about-img.jpg" alt="">
           </div>
         </div>
       </div>
@@ -640,7 +637,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
               <div class="tab_container">
                 <div class="t-link-box" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                   <div class="img-box">
-                    <img src="./files/images/pngegg (1).png" alt="">
+                    <img src="./FolderForDesign/images/pngegg (1).png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -653,7 +650,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                   <div class="img-box">
-                    <img src="./files/images/f2.png" alt="">
+                    <img src="./FolderForDesign/images/f2.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -666,7 +663,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                   <div class="img-box">
-                    <img src="./files/images/f3.png" alt="">
+                    <img src="./FolderForDesign/images/f3.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -679,7 +676,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 </div>
                 <div class="t-link-box collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                   <div class="img-box">
-                    <img src="./files/images/f4.png" alt="">
+                    <img src="./FolderForDesign/images/f4.png" alt="">
                   </div>
                   <div class="detail-box">
                     <h5>
@@ -697,22 +694,22 @@ Our mission is simple: to provide a platform where clients can access a diverse 
           <div class="col-md-6">
             <div class="collapse show" id="collapseOne" aria-labelledby="headingOne" data-parent="#accordion">
               <div class="img-box">
-                <img src="./files/images/freelance-img.jpg" alt="">
+                <img src="./FolderForDesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordion">
               <div class="img-box">
-                <img src="./files/images/freelance-img.jpg" alt="">
+                <img src="./FolderForDesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#accordion">
               <div class="img-box">
-                <img src="./files/images/freelance-img.jpg" alt="">
+                <img src="./FolderForDesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
             <div class="collapse" id="collapseFour" aria-labelledby="headingfour" data-parent="#accordion">
               <div class="img-box">
-                <img src="./files/images/freelance-img.jpg" alt="">
+                <img src="./FolderForDesign/images/freelance-img.jpg" alt="">
               </div>
             </div>
           </div>
@@ -746,7 +743,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                   <p>
                     This is Best Platform for Freelancer Where they can earn money through freelancing and get unlimited opprtunity to work on Sereval Project
                   </p>
-                  <img src="./files/images/quote.png" alt="">
+                  <img src="./FolderForDesign/images/quote.png" alt="">
                 </div>
               </div>
               <div class="carousel-item">
@@ -757,7 +754,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                   <p>
                   Their platform is user-friendly, their team is responsive and professional, and their commitment to quality is unmatched. Thanks to ProjectPulse, we were able to find the perfect freelancer for our project, and the results exceeded our expectations. 
                   </p>
-                  <img src="./files/images/quote.png" alt="">
+                  <img src="./FolderForDesign/images/quote.png" alt="">
                 </div>
               </div>
               <div class="carousel-item">
@@ -768,7 +765,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                   <p>
                   The platform is intuitive, making it simple to browse profiles, communicate with freelancers, and manage projects. We've been consistently impressed with the quality of talent available on ProjectPulse, and the level of professionalism exhibited by both the freelancers and the ProjectPulse team.
                   </p>
-                  <img src="./files/images/quote.png" alt="">
+                  <img src="./FolderForDesign/images/quote.png" alt="">
                 </div>
               </div>
             </div>
@@ -803,19 +800,19 @@ Our mission is simple: to provide a platform where clients can access a diverse 
           </div>
           <div class="social_box">
             <a href="#">
-              <img src="./files/images/fb.png" alt="">
+              <img src="./FolderForDesign/images/fb.png" alt="">
             </a>
             <a href="#">
-              <img src="./files/images/twitter.png" alt="">
+              <img src="./FolderForDesign/images/twitter.png" alt="">
             </a>
             <a href="#">
-              <img src="./files/images/linkedin.png" alt="">
+              <img src="./FolderForDesign/images/linkedin.png" alt="">
             </a>
             <a href="#">
-              <img src="./files/images/instagram.png" alt="">
+              <img src="./FolderForDesign/images/instagram.png" alt="">
             </a>
             <a href="#">
-              <img src="./files/images/youtube.png" alt="">
+              <img src="./FolderForDesign/images/youtube.png" alt="">
             </a>
           </div>
         </div>
@@ -857,7 +854,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 Follow Our Founder
               </h5>
               <p>
-              <a href="https://www.linkedin.com/in/gauravpatil13/">Gaurav Patil</a>
+              <a href="https://www.linkedin.com/in/gauravpatil13/">Abhishek Prasad</a>
               </p>
             </div>
 
@@ -883,7 +880,7 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 <div class="col-md-3">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="./files/images/location.png" alt="">
+                      <img src="./FolderForDesign/images/location.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
@@ -895,11 +892,11 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 <div class="col-md-4">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="./files/images/mail.png" alt="">
+                      <img src="./FolderForDesign/images/mail.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
-                        gauravpatilgr13@gmail.com
+                        abhishek35922@gmail.com
                       </h6>
                     </div>
                   </a>
@@ -907,11 +904,11 @@ Our mission is simple: to provide a platform where clients can access a diverse 
                 <div class="col-md-5">
                   <a href="#" class="link-box">
                     <div class="img-box">
-                      <img src="./files/images/call.png" alt="">
+                      <img src="./FolderForDesign/images/call.png" alt="">
                     </div>
                     <div class="detail-box">
                       <h6>
-                        Call +91 9834583904
+                           Call +91 7985215048
                       </h6>
                     </div>
                   </a>
@@ -932,16 +929,16 @@ Our mission is simple: to provide a platform where clients can access a diverse 
     <div class="container">
       <p>
         &copy; <span id="displayDate"></span> All Rights Reserved By
-        <a href="https://html.design/">Gaurav Patil</a>
+        <a href="https://html.design/">Abhishek Prasad</a>
       </p>
     </div>
   </footer>
   <!-- end  footer section -->
 
 
-  <script src="./files/js/jquery-3.4.1.min.js"></script>
-  <script src="./files/js/bootstrap.js"></script>
-  <script src="./files/js/custom.js"></script>
+  <script src="./FolderForDesign/js/jquery-3.4.1.min.js"></script>
+  <script src="./FolderForDesign/js/bootstrap.js"></script>
+  <script src="./FolderForDesign/js/custom.js"></script>
   
   <style><style>
   

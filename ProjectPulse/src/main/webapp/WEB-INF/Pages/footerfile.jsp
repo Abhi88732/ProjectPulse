@@ -82,7 +82,7 @@
                 Follow Our Founder
               </h5>
               <p>
-              <a href="https://www.linkedin.com/in/gauravpatil13/">Gaurav Patil</a>
+              <a href="https://www.linkedin.com/in/gauravpatil13/">Abhishek Prasad</a>
               </p>
             </div>
 
@@ -124,7 +124,7 @@
                     </div>
                     <div class="detail-box">
                       <h6>
-                        gauravpatilgr13@gmail.com
+                        abhishek35922@gmail.com
                       </h6>
                     </div>
                   </a>
@@ -136,7 +136,7 @@
                     </div>
                     <div class="detail-box">
                       <h6>
-                        Call +91 9834583904
+                        Call +91 7985215048
                       </h6>
                     </div>
                   </a>
@@ -157,7 +157,7 @@
     <div class="container">
       <p>
         &copy; <span id="displayDate"></span> All Rights Reserved By
-        <a href="https://html.design/">Gaurav Patil</a>
+        <a href="https://html.design/">Abhishek Prasad</a>
       </p>
     </div>
   </footer>

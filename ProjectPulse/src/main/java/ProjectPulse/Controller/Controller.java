@@ -56,7 +56,7 @@ public class Controller {
 		dd.RegisterCompany(cy);
 		return "redirect:/LogInPage";
 	}
-	@RequestMapping("/LogInPage")
+	@RequestMapping(path="/LogInPage",method = RequestMethod.GET)
 	public String LogInPage() {
 		
 		return "LoginCompany";
